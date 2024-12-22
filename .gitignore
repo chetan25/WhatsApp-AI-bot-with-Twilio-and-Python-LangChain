@@ -1,0 +1,4 @@
+.whats-ai/
+uploads/
+.env
+faiss_index_constitution
